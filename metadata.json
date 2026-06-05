@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Search",
+  "description": "A movie search application using TMDB API, featuring a watchlist, offline access caching, and dark mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
